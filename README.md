@@ -11,7 +11,8 @@
 </p>
 
 ---
-
+View Dashboard : https://94e5bc89-2698-4a37-9d11-c8b3bf0d45e7.plotly.app
+------
 ## 📌 Project Overview
 
 This project is a **fully interactive Pharmaceutical Inventory Management Dashboard** built using **Plotly**.
